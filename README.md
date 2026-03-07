@@ -2,7 +2,7 @@
 <!--  GitHub Profile README -->
 <!-- ===================== -->
 
-<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm a Full Stack and AI Developer</h1>
 
 <p align="center">
   <b>Building modern, scalable, and beautiful web applications</b><br/>
