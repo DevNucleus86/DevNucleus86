@@ -1,53 +1,58 @@
 <h1 align="center">Hi 👋, I'm Emilio Saiden</h1>
-<h3 align="center">Full Stack AI Developer | Building Intelligent Web Solutions</h3>
+<h3 align="center">🚀 Full Stack AI Developer | Intelligent Web Architect</h3>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer with strong frontend & backend expertise  
-- 🤖 Specialized in AI Integration & Object Detection  
-- 🌐 Experienced in building scalable web applications  
-- 🛒 Shopify & WordPress customization expert  
-- 🔌 Skilled in API integration & automation  
+- 💻 Full Stack Developer (React, Next.js, Vue)
+- 🤖 AI Integration Specialist (OpenAI, Computer Vision)
+- 🔍 Object Detection & AI Automation
+- 🛒 Shopify & WordPress Expert
+- 🔗 API Integration & Scalable Systems
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Frontend
-- React.js
-- Next.js
-- Vue.js
-- Tailwind CSS
-- HTML5 / CSS3 / JavaScript (ES6+)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,tailwind" />
+</p>
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
 
-### 🤖 AI / Machine Learning
-- OpenAI API
-- Computer Vision (Object Detection)
-- TensorFlow / PyTorch (basic to intermediate)
-- AI-powered SaaS integrations
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 ### 🗄️ Database
-- MongoDB
-- MySQL
-- PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- Docker
-- Vercel / Netlify
-- AWS (basic)
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel" />
+</p>
 
 ### 🛒 CMS & E-commerce
-- Shopify (custom themes & apps)
-- WordPress (custom plugins & themes)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
 
 ---
 
@@ -60,11 +65,22 @@
 
 ---
 
-## 🔥 Featured Skills
+## 🏆 Skill Power
 
-```text
-Full Stack Development  ████████████████████
-AI Integration          ██████████████████
-Object Detection        ████████████████
-API Development         ███████████████████
-Shopify / WordPress     █████████████████
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,python,mongodb,docker,aws" />
+</p>
+
+---
+
+## 🌱 Currently Building
+
+- 🤖 AI-powered SaaS platforms  
+- ⚙️ Automation tools  
+- 🌐 Scalable full-stack applications  
+
+---
+
+## ⚡ Fun Fact
+
+> I build smart systems that scale 🚀
