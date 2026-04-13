@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">🚀 Full Stack AI Developer | Intelligent Web Architect</h3>
+<h3 align="center">🚀 A Senior Full Stack AI Developer | Intelligent Web Architect</h3>
 
 ---
 
